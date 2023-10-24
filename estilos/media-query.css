@@ -22,13 +22,13 @@
     background-image: linear-gradient(to top, #49a09d, #5f2c82);
   }
   section#login {
-    width: 720px;
+    width: 1000px;
   }
 
   section#login > div#imagem {
-    float: right;
+    float: left;
     width: 50%;
-    height: 100%;
+    height: 75%;
   }
   section#login > div#formaulario {
     float: left;
